@@ -1,6 +1,6 @@
 /// <reference types="node" />
-import http from 'http';
-import https from 'https';
+import * as http from 'http';
+import * as https from 'https';
 /**
  * Contains the result of the main function call.
  */
